@@ -1,4 +1,6 @@
-console.log('hello world!!!');
+// KOD Z ZAJĘĆ
+
+{console.log('hello world!!!');
 let item: number = 13;
 item = 16;
 // item=true
@@ -288,4 +290,4 @@ class Shape implements Sides{
     }
 }
 const nextShape=new Shape({a:4,b:6})
-
+}
